@@ -49,7 +49,7 @@ jobs:
           go version
 
       - name: Setup Project
-        run: cd RoD |
+        run: cd /home/runner/work/RoD-Map/RoD |
           npm run project-setup
        
 
