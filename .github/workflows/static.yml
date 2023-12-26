@@ -49,8 +49,7 @@ jobs:
           go version
 
       - name: Setup Project
-        run: cd /home/runner/work/RoD-Map/RoD-Map/RoD |
-          npm run project-setup
+        run: npm run project-setup
        
 
       - name: Install npm dependencies
