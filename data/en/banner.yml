@@ -5,7 +5,7 @@ banner:
   # bg_image : "images/backgrounds/hero-area.jpg"
   icon : "images/backgrounds/ned_1.jpg" # themify icon pack : https://themify.me/themify-icons
   title : "Reign of Dwarf - Find your Friends"
-  content : "In game, press F1 and type tile. The output is your current location on the map. Have your friend do the same and use the map below to naviate."
+  content : "In game, press F1, type tile and press TAB; the output is your current location on the map. Have your friend do the same and use the table below to help naviate."
   button:
     enable : false
     label : "Explore Us"
