@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
-title = "Meghna"
+baseURL = "https://demo.gethugothemes.com/RoDMap"
+title = "RoD Map"
 theme = "meghna-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "America/New_York"
@@ -193,8 +193,8 @@ weight = 8
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Reign of Dwarf Navigation Assist"
+author = "gobble"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
